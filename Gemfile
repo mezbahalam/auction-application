@@ -38,6 +38,9 @@ group :development, :test do
   gem 'database_cleaner'
   gem 'timecop'
   gem 'pry-byebug'
+
+  gem 'better_errors'
+  gem 'quiet_assets'
 end
 
 group :development do
